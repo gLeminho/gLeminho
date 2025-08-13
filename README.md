@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Guilherme Lemos
 **`Desenvolvedor`**
+
 Hello! I'm Guilherme Lemos, a Computer Science student at Newton Paiva, currently in my sixth semester. 
 I'm passionate about software development and always eager to enhance my skills.
 My programming journey began with logical programming in C, and I now specialize in building modern backend applications with Java and Spring.
