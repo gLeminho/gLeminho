@@ -1,6 +1,12 @@
 # 👩🏻‍💻 Guilherme Lemos
 **`Desenvolvedor`**
 
+<p align="left">
+    <a href="mailto:guiarger@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</p>
+
 Hello! I'm Guilherme Lemos, a Computer Science student at Newton Paiva, currently in my sixth semester. 
 I'm passionate about software development and always eager to enhance my skills.
 My programming journey began with logical programming in C, and I now specialize in building modern backend applications with Java and Spring.
@@ -21,7 +27,6 @@ My programming journey began with logical programming in C, and I now specialize
         />
     </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
